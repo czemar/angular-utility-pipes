@@ -1,0 +1,23 @@
+{
+  "name": "@czemar/utility-pipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czemar/angular-utility-pipes.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czemar/angular-utility-pipes/issues"
+  },
+  "homepage": "https://github.com/czemar/angular-utility-pipes#readme"
+}
